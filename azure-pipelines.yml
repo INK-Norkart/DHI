@@ -10,9 +10,7 @@ pool:
   vmImage: ubuntu-latest
 
 steps:
-- task: UseRubyVersion@0
-  inputs:
-    versionSpec: '>= 2.5'
+
 
 - task: AzureStaticWebApp@0
   inputs:
