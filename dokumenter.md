@@ -1,11 +1,12 @@
 ---
-title: Team
+title: Dokumenter
 layout: teams
 description: Team
+intro_image: "images/headers/IMG_1909.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# Dokumenter
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Her er liste over dokumenter relatert til prosjektet.
