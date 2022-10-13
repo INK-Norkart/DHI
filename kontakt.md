@@ -1,7 +1,6 @@
 ---
 title: Kontakt
 layout: contact
-intro_image: "images/headers/IMG_1753_2.jpg"
 description: Contact
 ---
 
