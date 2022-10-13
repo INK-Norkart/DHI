@@ -6,7 +6,7 @@ jobtitle: "Studentoppgave - UiA"
 promoted: true
 weight: 2
 ---
-<p><a href="images/docs/Sensorteknologi i havn - kartlegging.pdf" target="blank">Last ned her.</a></p>
+<p><a href="images/docs/kartlegging-av-brukerbehov-på-sensorer-i-havn.pdf" target="blank">Last ned her.</a></p>
 
 
  

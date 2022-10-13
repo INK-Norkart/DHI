@@ -6,4 +6,4 @@ jobtitle: "Studentoppgave - NTNU"
 promoted: true
 weight: 1
 ---
-<p><a href="images/docs/Digital kaibestilling og sikkerhet.pdf" target="blank">Last ned her.</a></p>
+<p><a href="images/docs/digital-kaibestilling-og-sikkerhet.pdf" target="blank">Last ned her.</a></p>
