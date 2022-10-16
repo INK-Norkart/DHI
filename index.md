@@ -2,7 +2,7 @@
 title: Norsk digital havneinfrastruktur
 layout: home
 description: Hjemmeside for havneprosjektet norsk digital havneinfrastruktur. 
-intro_image: "images/headers/IMG_1756.JPG"
+intro_image: "../images/headers/IMG_1756.JPG"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true

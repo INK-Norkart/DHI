@@ -3,7 +3,7 @@
     "title": "Lars Fredrik Gyland <h4>Fylkeskartsjef i Agder og prosjektleder<h4/>",
     "description": "<q> Vi er godt i rute. Det er et stort prosjekt i høy hastighet! Havnene ser verdien av digitalisering og er engasjerte. De rydder bort alt annet og bidrar godt inn i prosjektarbeidet. Det er unikt. <q/>",
     "image": {
-      "url": "images/portraits/Lars_Fredrik_Gyland.png",
+      "url": "../images/portraits/Lars_Fredrik_Gyland.png",
       "width": 80,
       "height": 80
     }
@@ -12,7 +12,7 @@
     "title": "Hege Berg Thurman <h4>Fra Oslo Havn og prosjekteier<h4/>",
     "description": "<q> Gjennom stor grad av tillit mellom aktørene, transparente prosesser og felles målsetninger- har Norge forutsetninger til å lykkes på en måte som andre nasjoner vil ha utfordringer med å kopiere. <q/>",
     "image": {
-      "url": "images/portraits/Hege_Berg_Thurmann.png",
+      "url": "../images/portraits/Hege_Berg_Thurmann.png",
       "width": 80,
       "height": 80
     }
@@ -21,7 +21,7 @@
     "title": "Matilde Skår og Maléne Peterson <h4>Kartverket og Norkart<h4/>",
     "description": "<q> Det har vært utrolig kjekt og effektivt å kunne jobbe sammen på en smidig måte, slik at vi raskt kunne ta brukerbehov til UML-modell og verifisere tilbake med brukere og eksperter. <q/>",
     "image": {
-      "url": "images/portraits/Matilde_og_Malene.jpg",
+      "url": "../images/portraits/Matilde_og_Malene.jpg",
       "width": 80,
       "height": 80
     }

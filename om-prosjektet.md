@@ -5,7 +5,7 @@ description: om-prosjektet
 bodyClass: page-about
 ---
 
-![Dekor bilde om prosjektet](images/headers/DSC_0125.JPG)
+![Dekor bilde om prosjektet](../images/headers/DSC_0125.JPG)
 
 
 ## Hva er Norsk digital havneinfrastruktur?
